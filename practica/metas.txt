@@ -1,0 +1,5 @@
+1: Ser psicologa 
+2: Viajar
+3: Tener gatos
+4: Tener buenas notas
+5: Ser feliz

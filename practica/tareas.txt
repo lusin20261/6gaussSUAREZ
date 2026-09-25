@@ -1,0 +1,5 @@
+1: Estudiar para los examenes
+2: Estudiar para el simulacro
+3: Limpiar mi cuarto
+4: Darle de comer a mis gatas
+5: Hacer las tareas
